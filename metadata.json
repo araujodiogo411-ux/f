@@ -1,0 +1,5 @@
+{
+  "name": "CinePicker AI",
+  "description": "An intelligent movie recommendation engine that picks movies based on genre and age rating, providing trailer links and quality verdicts.",
+  "requestFramePermissions": []
+}
